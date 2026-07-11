@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+
+# Database & Settings
+*.db
+*.db-shm
+*.db-wal
+alidwd_settings.json
+
+# Media
+*.mp4
+*.mp3
+*.webm
+
+# OS
+Thumbs.db
+
+# Inno Setup Output
+Output/
